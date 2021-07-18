@@ -1,24 +1,5 @@
-# README
+# 楽天トラベルを利用したホテルを提案するLINE Bot
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+キーワードを検索して数種類のホテルを提案してくれるBotです
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://hotel-keywordsearch-linebot.herokuapp.com/
